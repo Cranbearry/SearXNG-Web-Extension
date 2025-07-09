@@ -32,7 +32,7 @@ Example:
 {
   "chrome_settings_overrides": {
     "search_provider": {
-      "search_url": "https://searx.be/search?q={searchTerms}"
+      "search_url": "https://search.canine.tools/search?q={searchTerms}"
     }
   }
 }
